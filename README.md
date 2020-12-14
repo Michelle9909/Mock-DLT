@@ -1,9 +1,8 @@
-## Spring Boot Example
+## Mock DLT
 
-This is a basic example of how to use Kotlin in a Spring Boot application. See the [accompanying tutorial](http://kotlinlang.org/docs/tutorials/spring-boot-restful.html)
-for more information.
+This is a basic example of how a DLT system work, written in Kotlin
 
-To run:
+To run API:
 
 ```
 $ ./gradlew bootRun
